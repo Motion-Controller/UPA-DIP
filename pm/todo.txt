@@ -8,5 +8,7 @@ x 1st routing gloss
 x create GIT repo and remote
 add Pull-ups for Encoder
 create README.MD
-Create all deliverables
-Upload to Eurocircuits
+x Create all deliverables
+x Upload to Eurocircuits
+Pass Eurocircuits Visualizer
+Add supplier info
