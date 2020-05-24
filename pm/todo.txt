@@ -5,5 +5,8 @@ x Placement
 x Layers and width definitions
 x Route
 x 1st routing gloss
-create GIT repo and remote
+x create GIT repo and remote
 add Pull-ups for Encoder
+create README.MD
+Create all deliverables
+Upload to Eurocircuits
