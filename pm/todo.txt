@@ -1,0 +1,9 @@
+x Create new UPA-DIP project
+x make PCB 43x33mm
+x Sync PCB with schematic
+x Placement
+x Layers and width definitions
+x Route
+x 1st routing gloss
+create GIT repo and remote
+add Pull-ups for Encoder

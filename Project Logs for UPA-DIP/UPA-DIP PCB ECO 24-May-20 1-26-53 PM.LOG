@@ -1,0 +1,154 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=NBUSA-2
+Removed Pin From Net: NetName=GND Pin=NBUSA-29
+Removed Pin From Net: NetName=GND Pin=NBUSA-32
+Removed Pin From Net: NetName=GND Pin=NBUSA-59
+Removed Pin From Net: NetName=GND Pin=NBUSB-2
+Removed Pin From Net: NetName=+5V Pin=NBUSB-28
+Removed Pin From Net: NetName=GND Pin=NBUSB-29
+Removed Pin From Net: NetName=GND Pin=NBUSB-32
+Removed Pin From Net: NetName=+5V Pin=NBUSB-33
+Removed Pin From Net: NetName=GND Pin=NBUSB-59
+Removed Pin From Net: NetName=GND Pin=SW3-3
+Removed Pin From Net: NetName=GND Pin=Y2-2
+Removed Pin From Net: NetName=GND Pin=Y2-4
+Added Component: Designator=C1(CK05)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "594-K104K15X7RF53H5"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CK05)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "594-K104K15X7RF53H5"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CK05)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CK05)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JP5(1x05P)
+Added Component: Designator=JP6(ML10)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "17-Jul-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "517-30310-6002"; VariantName = "[No Variations]"
+Added Component: Designator=JP7(ML10)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "17-Jul-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "517-30310-6002"; VariantName = "[No Variations]"
+Added Component: Designator=LCD2(1X16)
+Added Component: Designator=R1(RS-2,5)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "594-SFR25H0001002JR5"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RS-2,5)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW1(BUTTON_4.7x3.5mm)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "667-EVQ-P2202M"; VariantName = "[No Variations]"
+Added Component: Designator=U1(DIL28-300)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc2503.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2503C-AVR-10/02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 40 Leads; Row Spacing 15.24 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "40P6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Dec-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(HC49U-V)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=JP5-4
+Added Pin To Net: NetName=+5V Pin=JP5-5
+Added Pin To Net: NetName=GND Pin=JP6-2
+Added Pin To Net: NetName=+5V Pin=JP7-1
+Added Pin To Net: NetName=GND Pin=JP7-2
+Added Pin To Net: NetName=GND Pin=LCD2-1
+Added Pin To Net: NetName=GND Pin=LCD2-3
+Added Pin To Net: NetName=+5V Pin=R1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=+5V Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=+5V Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=A2 Pin=JP5-3
+Added Pin To Net: NetName=A2 Pin=U1-25
+Added Net: Name=A2
+Added Pin To Net: NetName=D2 Pin=JP5-1
+Added Pin To Net: NetName=D2 Pin=U1-4
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=JP5-2
+Added Pin To Net: NetName=D3 Pin=U1-5
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=JP6-3
+Added Pin To Net: NetName=D4 Pin=U1-6
+Added Net: Name=D4
+Added Pin To Net: NetName=D10 Pin=JP7-5
+Added Pin To Net: NetName=D10 Pin=U1-16
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=JP6-5
+Added Pin To Net: NetName=D11 Pin=U1-17
+Added Net: Name=D11
+Added Pin To Net: NetName=D12 Pin=JP6-10
+Added Pin To Net: NetName=D12 Pin=U1-18
+Added Net: Name=D12
+Added Pin To Net: NetName=D13 Pin=JP6-9
+Added Pin To Net: NetName=D13 Pin=U1-19
+Added Net: Name=D13
+Added Pin To Net: NetName=LCD-D4 Pin=LCD2-11
+Added Pin To Net: NetName=LCD-D4 Pin=U1-11
+Added Net: Name=LCD-D4
+Added Pin To Net: NetName=LCD-D5 Pin=LCD2-12
+Added Pin To Net: NetName=LCD-D5 Pin=U1-12
+Added Net: Name=LCD-D5
+Added Pin To Net: NetName=LCD-D6 Pin=LCD2-13
+Added Pin To Net: NetName=LCD-D6 Pin=U1-13
+Added Net: Name=LCD-D6
+Added Pin To Net: NetName=LCD-D7 Pin=LCD2-14
+Added Pin To Net: NetName=LCD-D7 Pin=U1-14
+Added Net: Name=LCD-D7
+Added Pin To Net: NetName=LCD-EN Pin=LCD2-6
+Added Pin To Net: NetName=LCD-EN Pin=U1-24
+Added Net: Name=LCD-EN
+Added Pin To Net: NetName=LCD-RS Pin=LCD2-4
+Added Pin To Net: NetName=LCD-RS Pin=U1-15
+Added Net: Name=LCD-RS
+Added Pin To Net: NetName=LCD-RW Pin=LCD2-5
+Added Pin To Net: NetName=LCD-RW Pin=U1-23
+Added Net: Name=LCD-RW
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-21
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R2-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-9
+Added Pin To Net: NetName=NetC3_2 Pin=Y1-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R2-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-10
+Added Pin To Net: NetName=NetC4_2 Pin=Y1-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=RESET Pin=C1-1
+Added Pin To Net: NetName=RESET Pin=R1-2
+Added Pin To Net: NetName=RESET Pin=SW1-1
+Added Pin To Net: NetName=RESET Pin=U1-1
+Added Net: Name=RESET
+Added Class: Name=UPA-DIP
+Change Room Name: Old Name=N-PRO-02 New Name=UPA-DIP
+Change Room Scope: Old Scope=InComponentClass('N-PRO-02') New Scope=InComponentClass('UPA-DIP')
