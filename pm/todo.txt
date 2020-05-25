@@ -11,5 +11,7 @@ create README.MD
 x Create all deliverables
 x Upload to Eurocircuits
 x Pass Eurocircuits Visualizer
-Add supplier info
-Get PO and trigger order
+Add parts supplier info
+Order parts
+Get eurocircuits PO and trigger order
+x Check JLCpcb pricing and delivery [37.10eur, 9WD, 20eur UPS]
