@@ -7,7 +7,8 @@ x Route
 x 1st routing gloss
 x create GIT repo and remote
 add Pull-ups for Encoder
-create README.MD
+x create README.MD
+x Create Block Diagram
 x Create all deliverables
 x Upload to Eurocircuits
 x Pass Eurocircuits Visualizer
