@@ -6,7 +6,7 @@ x Layers and width definitions
 x Route
 x 1st routing gloss
 x create GIT repo and remote
-add Pull-ups for Encoder
+x add Pull-ups for Encoder
 x create README.MD
 x Create Block Diagram
 x Create all deliverables

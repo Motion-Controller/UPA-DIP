@@ -1,0 +1,21 @@
+Added Component: Designator=R3(RS-2,5)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "594-SFR25H0001002JR5"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RS-2,5)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "594-SFR25H0001002JR5"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RS-2,5)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "594-SFR25H0001002JR5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=R3-1
+Added Pin To Net: NetName=D2 Pin=R3-2
+Added Pin To Net: NetName=+5V Pin=R4-1
+Added Pin To Net: NetName=D3 Pin=R4-2
+Added Pin To Net: NetName=+5V Pin=R5-1
+Added Pin To Net: NetName=A2 Pin=R5-2
+Added Member To Class: ClassName=UPA-DIP Member=Component R3 10K
+Added Member To Class: ClassName=UPA-DIP Member=Component R4 10K
+Added Member To Class: ClassName=UPA-DIP Member=Component R5 10K
