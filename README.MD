@@ -3,6 +3,7 @@
 ####  Part of the project: [prj_UPA_minimal](https://github.com/nikoschalikias/prj_UPA_minimal)
 ---
 
+
 **Block Diagram**
 
 <img

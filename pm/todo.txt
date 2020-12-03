@@ -14,5 +14,7 @@ x Upload to Eurocircuits
 x Pass Eurocircuits Visualizer
 Add parts supplier info
 Order parts
-Get eurocircuits PO and trigger order
+Test with perforated board
+Add eurocircuits PO and trigger order
 x Check JLCpcb pricing and delivery [37.10eur, 9WD, 20eur UPS]
+x Check Seeed studio pricing and delivery [$4.9+ delivery $17.68 = $22.58]
