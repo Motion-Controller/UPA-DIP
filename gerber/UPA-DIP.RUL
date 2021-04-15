@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: F:\n-blocks\upa-dip\UPA-DIP.PcbDoc
+DRC Rules Export File for PCB: F:\prj\electronics\3DP-BOARDS\upa-dip\UPA-DIP.PcbDoc
 RuleKind=Width|RuleName=POWER-LINES|Scope=Board|Minimum=7.87
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=4.88
