@@ -1,4 +1,5 @@
-# pcb_UPA-DIP: 
+# [UPA-DIP](https://github.com/Motion-Controller/UPA-DIP)
+
 ####  UPA-DIP Board: SPI to PARALLEL 20x4 LCD with GLCD Reprap PANEL Interface
 ####  Part of the project: [prj_UPA_minimal](https://github.com/nikoschalikias/prj_UPA_minimal)
 ---
@@ -47,3 +48,14 @@ width="150"
 />
 
 ---
+
+## JLCPCB
+
+PCB is ordered
+
+<p align="center">
+<img
+src="img/01.PNG"
+width = 900
+/>
+</p> 

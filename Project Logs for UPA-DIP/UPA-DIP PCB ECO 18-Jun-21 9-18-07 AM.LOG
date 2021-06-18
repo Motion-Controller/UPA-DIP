@@ -1,0 +1,52 @@
+Added Component: Designator=R6(RS-2,5)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "594-SFR25H0001002JR5"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RS-2,5)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "594-SFR25H0001002JR5"; VariantName = "[No Variations]"
+Added Component: Designator=SB1(0603_JUMPER)
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NO"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(0603_JUMPER)
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NO"; VariantName = "[No Variations]"
+Added Component: Designator=SB3(0603_JUMPER)
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NO"; VariantName = "[No Variations]"
+Added Component: Designator=SB4(0603_JUMPER)
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=R6-2
+Added Pin To Net: NetName=+5V Pin=R7-2
+Added Pin To Net: NetName=GND Pin=SB2-2
+Added Pin To Net: NetName=GND Pin=SB4-2
+Added Pin To Net: NetName=NetJ1_15 Pin=J1-15
+Added Pin To Net: NetName=NetJ1_15 Pin=SB3-1
+Added Pin To Net: NetName=NetJ1_15 Pin=SB4-1
+Added Net: Name=NetJ1_15
+Added Pin To Net: NetName=NetJ1_16 Pin=J1-16
+Added Pin To Net: NetName=NetJ1_16 Pin=SB1-1
+Added Pin To Net: NetName=NetJ1_16 Pin=SB2-1
+Added Net: Name=NetJ1_16
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=SB1-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=SB3-2
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=UPA-DIP Member=Component R6 1?
+Added Member To Class: ClassName=UPA-DIP Member=Component R7 1?
+Added Member To Class: ClassName=UPA-DIP Member=Component SB1 Closed
+Added Member To Class: ClassName=UPA-DIP Member=Component SB2 Open
+Added Member To Class: ClassName=UPA-DIP Member=Component SB3 Open
+Added Member To Class: ClassName=UPA-DIP Member=Component SB4 Closed

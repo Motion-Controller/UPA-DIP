@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=+5V Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=LCD-RS Pin=J1-4
+Removed Pin From Net: NetName=LCD-RW Pin=J1-5
+Removed Pin From Net: NetName=LCD-EN Pin=J1-6
+Removed Pin From Net: NetName=LCD-D4 Pin=J1-11
+Removed Pin From Net: NetName=LCD-D5 Pin=J1-12
+Removed Pin From Net: NetName=LCD-D6 Pin=J1-13
+Removed Pin From Net: NetName=LCD-D7 Pin=J1-14
+Removed Member From Class: ClassName=UPA-DIP Member=J1
+Added Component: Designator=LCD1(1X16)
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=+5V Pin=LCD1-2
+Added Pin To Net: NetName=GND Pin=LCD1-3
+Added Pin To Net: NetName=LCD-RS Pin=LCD1-4
+Added Pin To Net: NetName=LCD-RW Pin=LCD1-5
+Added Pin To Net: NetName=LCD-EN Pin=LCD1-6
+Added Pin To Net: NetName=LCD-D4 Pin=LCD1-11
+Added Pin To Net: NetName=LCD-D5 Pin=LCD1-12
+Added Pin To Net: NetName=LCD-D6 Pin=LCD1-13
+Added Pin To Net: NetName=LCD-D7 Pin=LCD1-14
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Pin To Net: NetName=NetLCD1_15 Pin=LCD1-15
+Added Pin To Net: NetName=NetLCD1_15 Pin=SB3-1
+Added Pin To Net: NetName=NetLCD1_15 Pin=SB4-1
+Added Net: Name=NetLCD1_15
+Added Pin To Net: NetName=NetLCD1_16 Pin=LCD1-16
+Added Pin To Net: NetName=NetLCD1_16 Pin=SB1-1
+Added Pin To Net: NetName=NetLCD1_16 Pin=SB2-1
+Added Net: Name=NetLCD1_16
+Added Member To Class: ClassName=UPA-DIP Member=Component LCD1 LCD MODULE SIL

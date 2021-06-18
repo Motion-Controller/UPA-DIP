@@ -1,0 +1,5 @@
+Added Component: Designator=JP1(2X03)
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "17-Jul-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=UPA-DIP Member=Component JP1 Header 3X2
