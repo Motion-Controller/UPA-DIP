@@ -2,59 +2,10 @@
 FileName = UPA-DIP.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 15
-      File : UPA-DIP.GM15
+Generating : Top Layer
+      File : UPA-DIP.GTL
 
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 3
-      File : UPA-DIP.GM3
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : UPA-DIP.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : UPA-DIP.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : UPA-DIP.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
@@ -72,6 +23,70 @@ Used DCodes :
     D25
     D26
     D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : UPA-DIP.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : UPA-DIP.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : UPA-DIP.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
 *************************************************************
 
 *************************************************************
@@ -98,41 +113,51 @@ Used DCodes :
     D25
     D26
     D27
+    D28
+    D29
+    D30
+    D31
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : UPA-DIP.GTP
+Generating : Bottom Overlay
+      File : UPA-DIP.GBO
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
+    D12
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : UPA-DIP.GTO
+Generating : Mechanical 3
+      File : UPA-DIP.GM3
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Mechanical 3
 
 
 Used DCodes :
     D10
-    D11
-    D12
-    D13
-    D14
-    D15
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : UPA-DIP.GBL
+Generating : Mechanical 15
+      File : UPA-DIP.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : UPA-DIP.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -140,7 +165,6 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D16
     D17
     D18
     D19
@@ -153,30 +177,22 @@ Used DCodes :
     D26
     D27
     D28
+    D29
+    D30
+    D31
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : UPA-DIP.GTL
+Generating : Bottom Paste
+      File : UPA-DIP.GBP
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
 *************************************************************
 
